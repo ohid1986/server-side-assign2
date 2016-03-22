@@ -32,9 +32,9 @@ How to use
 
 1. Git clone to your computer
 2. Run mongod database using 'mongod --dbpath drive_name:\server-side\mongodb\data --storageEngine=mmapv1' command if wiredTiger not supported
-$ cd/server-side-assign2
-$ cd/node-mongoose
-$ npm install
-$ node dishServer
-$ node promoServer
-$ node leaderServer
+3. $ cd/server-side-assign2
+4. $ cd/node-mongoose
+5. $ npm install
+6. $ node dishServer
+7. $ node promoServer
+8. $ node leaderServer
