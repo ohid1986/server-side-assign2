@@ -43,5 +43,11 @@ $RECYCLE.BIN/
 .AppleDB
 .AppleDesktop
 Network Trash Folder
+
 Temporary Items
 .apdisk
+
+# Folder to be excluded
+/node-mongodb/
+/node-express-gen/
+/node-mongoose/node_modules/
